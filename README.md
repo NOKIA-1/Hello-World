@@ -1,4 +1,4 @@
-# Hello-World
+# World
 •readme-edits•
 
 
